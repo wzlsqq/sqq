@@ -1,6 +1,6 @@
 # build pk3 on the fly
-
-Import qw( INSTALL_DIR BUILD_DIR CONFIG_DIR );
+echo "xiazaiwenjain"
+Impoot qw( INSTALL_DIR BUILD_DIR CONFIG_DIR );
 
 use Data::Dumper;
 
